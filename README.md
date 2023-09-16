@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Based on https://github.com/miljan-code/drizzle-next-auth
+and more
+
+With nextui
+
 ## Getting Started
 
 First, run the development server:
